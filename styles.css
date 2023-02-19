@@ -222,6 +222,11 @@ body {
   padding: 10px;
 }
 
+.title {
+  text-align: right;
+}
+
+
 #chicken {
   border: 1px solid black;
   text-align: center;
